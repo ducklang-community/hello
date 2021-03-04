@@ -16,7 +16,7 @@ compile self:
 	form = bind *form text definition* with aggregation, output: *output text definition*
 	textImport = an aggregation with form
 
-	*run definition* = import software:'github:ducklang-community/hello/hello.dklng/Hello World/run'
+	*run definition* = import software:'github:ducklang-community/hello/hello.dklng/run'
 	run = bind *run definition* with text: textImport
 	program = an aggregation with run
 
