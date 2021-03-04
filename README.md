@@ -7,5 +7,5 @@ First, install the [Ducklang compiler](https://github.com/ducklang-community/duc
 ## Run (TODO)
 
 ```sh
-dklng github:ducklang-community/hello/hello.program.dklng
+dklng github:ducklang-community/hello
 ```
