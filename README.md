@@ -4,8 +4,8 @@
 
 First, install the [Ducklang compiler](https://github.com/ducklang-community/ducklang).
 
-## Run (TODO)
+## Run (WIP)
 
 ```sh
-dklng github:ducklang-community/hello
+dklng run github:ducklang-community/hello
 ```
