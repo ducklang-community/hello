@@ -2,7 +2,7 @@
 
 ## Install
 
-First, install the [Ducklang compiler](https://github.com/ducklang-community/ducklang).
+Install [Ducklang](https://github.com/ducklang-community/ducklang).
 
 ## Use
 
