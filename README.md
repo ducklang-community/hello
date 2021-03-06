@@ -2,7 +2,7 @@
 
 ## Install
 
-* Install [Ducklang](https://github.com/ducklang-community/ducklang)
+* Install [Ducklang](https://github.com/ducklang-community/ducklang) first
 
 ## Use
 
