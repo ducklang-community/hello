@@ -7,9 +7,11 @@
 ## Use
 
 * [🖖 Fork the "Hello, World!" repo](https://github.com/ducklang-community/hello#top)
+* Run:
 
 ```sh
-dklg run github:<your-username>/hello
+user=YOUR_USERNAME
+dklg run github:$user/hello
 ```
 
 * Continue hacking on your new repo :)
