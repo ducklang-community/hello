@@ -9,6 +9,6 @@ use text
 
 
 run self:
-	output 'Hello World'
+	output 'Hello, '
 
 
