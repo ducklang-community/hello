@@ -4,8 +4,12 @@
 
 First, install the [Ducklang compiler](https://github.com/ducklang-community/ducklang).
 
-## Run (WIP)
+## Use
+
+* [🖖 Fork the "Hello, World!" repo](https://github.com/ducklang-community/hello#top)
 
 ```sh
-dklng run github:ducklang-community/hello
+dklng run github:<your-username>/hello
 ```
+
+* Continue hacking on your new repo :)
