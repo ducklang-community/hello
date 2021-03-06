@@ -11,4 +11,4 @@
 ```sh
 dklg run github:your_username/hello
 ```
-* Continue hacking on your new repo 😃
+* Continue hacking :)
